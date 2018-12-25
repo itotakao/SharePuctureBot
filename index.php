@@ -1,7 +1,7 @@
 <?php
   // 認証用
-  //$data = file_get_contents('php://input');
-  //var_dump($data);
+  $data = file_get_contents('php://input');
+  var_dump($data);
 
   // 先に応答を返す
   echo('ok');
