@@ -1,2 +1,2 @@
 # SharePuctureBot
-個人用スラック用
+個人スラック用
